@@ -1,2 +1,2 @@
 # predator-prey-abm
-Predator prey dynamics simulation using agent based modeling. 
+Predator prey dynamics using agent based simulation. 
